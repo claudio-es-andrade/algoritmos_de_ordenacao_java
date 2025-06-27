@@ -1,2 +1,2 @@
 # algoritmos_de_ordenacao_java
-Algoritmos de Ordenação em Java
+Lista de alguns dos principais algoritmos de ordenação feitos na linguagem Java
